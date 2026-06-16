@@ -107,3 +107,6 @@ This generates the Excel file with all 7 sheets.
  
 GitHub: https://github.com/TanishkaPagar
 LinkedIn: https://www.linkedin.com/in/tanishka-pagar
+
+## 👩‍💻 Developed By
+Tanishka Pagar — LABTECH Internship 2026
